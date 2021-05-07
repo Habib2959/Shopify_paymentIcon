@@ -1,3 +1,7 @@
+
+<!-- put the code in any html/ liquid tag wherever you need the payment icon -->
+
+
 <style>
 .icon {
   width: 3.125em;
